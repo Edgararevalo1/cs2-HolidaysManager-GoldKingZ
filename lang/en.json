@@ -1,0 +1,31 @@
+{
+	"PrintToChatToPlayer.ReloadPlugin.Not.Allowed": "{green}[HolidaysManager] {darkred}You Dont Have Permission",
+	"PrintToChatToPlayer.ReloadPlugin.Successfully": "{green}[HolidaysManager] {grey}Plugin Reloaded {lime}Successfully",
+
+	"PrintToChatToPlayer.Toggle.SnowFall.Not.Allowed": "{green}[HolidaysManager] {darkred}You Dont Have Permission",
+	"PrintToChatToPlayer.Toggle.SnowFall.Enabled": "{green}[HolidaysManager] {grey}❄️ SnowFall ❄️ Is Now {lime}Enabled",
+	"PrintToChatToPlayer.Toggle.SnowFall.Disabled": "{green}[HolidaysManager] {grey}❄️ SnowFall ❄️ Is Now {darkred}Disabled",
+
+	"PrintToChatToPlayer.Toggle.Props.Not.Allowed": "{green}[HolidaysManager] {darkred}You Dont Have Permission",
+	"PrintToChatToPlayer.Toggle.Props.Enabled": "{green}[HolidaysManager] {grey}Props Is Now {lime}Enabled",
+	"PrintToChatToPlayer.Toggle.Props.Disabled": "{green}[HolidaysManager] {grey}Props Is Now {darkred}Disabled",
+
+	"PrintToChat.SnowBall.Throw": "{green}[HolidaysManager] {team_color}{0} {green}@ {1}{grey}: {grey}Threw {blue}☃︎ SnowBall ☃︎",
+
+	"PrintToChatToPlayer.SnowBall.Refill": "{green}[HolidaysManager] {grey}You Recived ☃︎ SnowBall ☃︎",
+	"PrintToChatToPlayer.SnowBall.Refill.Max": "{green}[HolidaysManager] {grey}You Cant Carry More ☃︎ SnowBall ☃︎ Max Is {yellow}{0}",
+	"PrintToChatToPlayer.SnowBall.Refill.CoolDown": "{green}[HolidaysManager] {grey}You Are On Cooldown. Please Wait {yellow}{0} Seconds.",
+	"PrintToChatToPlayer.PropsEditMode.Not.Allowed": "{green}[HolidaysManager] {darkred}You Dont Have Permission",
+	"PrintToChatToPlayer.PropsEditMode.Is.Started": "{green}[HolidaysManager] {grey}You Cant Start Edit Mode {purple}{0} {grey}Is On Edit Mode Now",
+	"PrintToChatToPlayer.PropsEditMode.Started": "{green}[HolidaysManager] {grey}You Are In Edit Mode {grey}Check Your Game Console For Info {nextline} {green}[HolidaysManager] {grey}--------Info--------  {nextline} {green}[HolidaysManager] {yellow}!d/!data {lime}To Your MultiAddonManager Model Paths Into Your Game Console {nextline} {green}[HolidaysManager] {yellow}!i/!info {lime}To Print Info Into Your Game Console {nextline} {green}[HolidaysManager] {yellow}!s <Mode> <ModelPath> {lime}In Game Console To Spawn Prop {nextline} {green}[HolidaysManager] {lime}Open {yellow}Scoreboard {green}To Save And Exit {nextline} {green}[HolidaysManager] {grey}-------------------",
+	"PrintToChatToPlayer.PropsEditMode.Info": "{green}[HolidaysManager] {grey} Info Sent To Your {lime}Game Console",
+	"PrintToChatToPlayer.PropsEditMode.Data": "{green}[HolidaysManager] {grey} All Models Path Data Sent To Your {lime}Game Console",
+	"PrintToChatToAll.PropsEditMode.Started": "{green}[HolidaysManager] {purple}{0} {grey}Started Edit Mode",
+	"PrintToConsoleToPlayer.PropsEditMode.Info": "┌───────────────────────────────────────────────────┐{nextline}│                                                         EDIT MODE                                │{nextline}├───────────────────────────────────────────────────┤{nextline}│ Main Configuration                                               │{nextline}│ • !d/!data In Chat = Pull MultiAddonManager Models Paths         │{nextline}│ • !s <ModelPath> In Game Console = Spawn Prop                    │{nextline}│ • !s <Mode> <ModelPath> = Spawn Prop With Mode                   │{nextline}│     - Mode 0 or empty = No Collision                               │{nextline}│     - Mode 1 = Collision                                           │{nextline}│     - Mode 2 = No Collision + Refill Snowball On Touch             │{nextline}│     - Mode 3 = Collision + Refill Snowball On Touch                │{nextline}│ • Open Scoreboard = To Save And Exit                             │{nextline}├───────────────────────────────────────────────────┤{nextline}│ Prop Configuration                                               │{nextline}│ • Walk + W = Forward                                             │{nextline}│ • Walk + S = Backward                                            │{nextline}│ • Walk + A = Left                                                │{nextline}│ • Walk + D = Right                                               │{nextline}│ • Walk + R = Rotate                                              │{nextline}│ • Crouch + W = Up                                                │{nextline}│ • Crouch + S = Down                                              │{nextline}{nextline}│ • Crouch + R = Rotate                                            │{nextline}│ • Crouch + S = Down                                              │{nextline}│ • Left Click = Drop Prop                                         │{nextline}│ • Inspect = HighLight Prop By Color Red Before Pick Or Remove    │{nextline}│ • Inspect + Left Click = Pick Prop                               │{nextline}│ • Inspect + Right Click = Remove Prop                            │{nextline}└───────────────────────────────────────────────────┘",
+	"PrintToConsoleToPlayer.PropsEditMode.Empty": "[HolidaysManager] Missing Model Path Should be !s <Mode> <ModelPath>",
+	"PrintToConsoleToPlayer.PropsEditMode.Wrong": "[HolidaysManager] Invalid Model Path Allowed Only .vmdl Or .vmdl_c",
+	"PrintToConsoleToPlayer.PropsEditMode.Spawned": "[HolidaysManager] Model Spawned [{0}]",
+	"PrintToChatToPlayer.PropsEditMode.Dropped": "{green}[HolidaysManager] {lime}✓ {grey}Prop {purple}{0} {grey}Dropped {lime}✓",
+	"PrintToChatToPlayer.PropsEditMode.Removed": "{green}[HolidaysManager] {darkred}✗ {grey}Prop {purple}{0} {grey}Removed {darkred}✗",
+	"PrintToCenterToPlayer.PropsEditMode": "<font class='fontSize-M' color='#ff00e6'>You Are In Edit Mode <br> <br> <font class='fontSize-M' color='yellow'>!d<font class='fontSize-M' color='white'> / <font class='fontSize-M' color='yellow'>!data<font class='fontSize-M' color='white'> To Print Model Paths In Game Console <br><font class='fontSize-M' color='yellow'>!i<font class='fontSize-M' color='white'> / <font class='fontSize-M' color='yellow'>!info<font class='fontSize-M' color='white'> To Print Info In Game Console <br> Open <font class='fontSize-M' color='lime'>Scoreboard<font class='fontSize-M' color='white'> To Save And Exit"
+}
