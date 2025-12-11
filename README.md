@@ -47,6 +47,7 @@
 1. Download the latest `HolidaysManager-GoldKingZ.x.x.x.zip` release
 2. Extract contents to your `csgo` directory
 3. Configure settings in `HolidaysManager-GoldKingZ/config/config.json`
+4. Add Our Workshop `3621476366` Into `multiaddonmanager.cfg` 
 4. Restart your server
 
 ---
